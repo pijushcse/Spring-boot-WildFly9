@@ -1,0 +1,8 @@
+logging:
+  level:
+     org.springframework.boot: DEBUG
+     org.springframework.web: DEBUG
+     org.springframework.security: DEBUG
+     javax.servlet: DEBUG
+     org.apache.catalina: DEBUG
+     org.hibernate: ERROR   
